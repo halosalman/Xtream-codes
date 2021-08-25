@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Xtream-codes-Iptv-Panel-Minimal-3.0.3_archive.torrent" source="metadata">
+    <btih>4f075ac95b498bc52fd28cac0d176276665d6171</btih>
+    <mtime>1613804614</mtime>
+    <size>2169</size>
+    <md5>d6587ae13bc0d140b7301b9ebdd2866d</md5>
+    <crc32>6eb70f2b</crc32>
+    <sha1>7fb1a320393f9968662b6bd4309b4ec4cc06b9e7</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="Xtream-codes-Iptv-Panel-Minimal-3.0.3_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>aaded85debaedba2c00bd1ccf63c7661</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="Xtream-codes-Iptv-Panel-Minimal-3.0.3_meta.sqlite" source="original">
+    <mtime>1604886591</mtime>
+    <size>16384</size>
+    <md5>cf08f80bcda686a252b0a1c1e9c53fbd</md5>
+    <crc32>06e0a7e9</crc32>
+    <sha1>c47c9b84315e44a5bb7715b418cd81f6f90a1bb5</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="Xtream-codes-Iptv-Panel-Minimal-3.0.3_meta.xml" source="original">
+    <mtime>1613804614</mtime>
+    <size>1100</size>
+    <md5>23bf0613ad9958d73fba41b928d263b9</md5>
+    <crc32>e7b835ea</crc32>
+    <sha1>cfdb2f943b496d588a3bb1207e902858661f4520</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="install.sh" source="original">
+    <mtime>1604886519</mtime>
+    <size>3011</size>
+    <md5>b20c7ae70ec83ff8ad238fff11fd9f0a</md5>
+    <crc32>9d0eb1c7</crc32>
+    <sha1>98cb8b12617faf51b1bec978b138e710994695ff</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="installsh.zip" source="original">
+    <mtime>1604886326</mtime>
+    <size>28407</size>
+    <md5>d1e4f94de18e54d5afb4035bf855050c</md5>
+    <crc32>5219784b</crc32>
+    <sha1>dcc7beaa70df30e61e41ee3c6e151c11c6c55301</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="snowing.vt" source="original">
+    <mtime>1604886266</mtime>
+    <size>10610</size>
+    <md5>0487c110f033068934104cc81f463516</md5>
+    <crc32>4c986b18</crc32>
+    <sha1>6389548d21e9e028af247a03a0b31541598b3466</sha1>
+    <format>Unknown</format>
+  </file>
+</files>
